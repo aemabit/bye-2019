@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    font-family: 'Amiri', serif;
+    cursor: none;
+    background-color: #000000;
+    text-align: center;
+}
+
+span {
+    font-size: 100px;
+    color: rgb(255, 255, 255);
+    transition: all 0.3s ease;
+    transition: transform 0.1s linear;
+}
+
+#change {
+    text-decoration: underline;
+}
+
+.cursor {
+    pointer-events: none;
+    position: fixed;
+    padding: 1.5rem;
+    background-color: #ffffff;
+    border-radius: 50%;
+    mix-blend-mode: difference;
+    transition: transform 0.3s ease;
+}
+
+.span:hover ~ .cursor {
+    transform: translate(-50%, -50%) scale(8);
+}
+
