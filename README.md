@@ -11,4 +11,4 @@ Goodbye 2019... Welcome 2020 let's see what surprises this new year brings.
 * A lot things...
 
 ## URL
-
+[https://aemabit.github.io/bye-2019/](https://aemabit.github.io/bye-2019/)
