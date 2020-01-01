@@ -7,7 +7,7 @@
 Goodbye 2019... Welcome 2020 let's see what surprises this new year brings.
 
 ## Objetives
-* Single page...
+* Single page.
 * A lot things...
 
 ## URL
